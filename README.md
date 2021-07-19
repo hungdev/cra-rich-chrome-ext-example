@@ -13,6 +13,10 @@ An example of full-fledged, rich UI Chrome extension built with Create React App
 * [Reduxed Chrome Storage](https://github.com/hindmost/reduxed-chrome-storage).
 * [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React).
 
+## Post
+* [Medium] (https://levelup.gitconnected.com/how-to-build-a-rich-chrome-extension-quickly-with-create-react-app-and-redux-d9b64cf64832)
+
+
 ## License
 
 Licensed under the MIT license.
